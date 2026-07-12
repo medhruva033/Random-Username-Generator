@@ -1,11 +1,11 @@
 import random
 import string
 
-# Step 1: Define the lists of adjectives and nouns
+# Step 1: Define the lists of adjectives and nous
 adjectives = ["Cool", "Happy", "Funny", "Mighty", "Wild", "Silly", "Brave", "Loyal"]
 nouns = ["Tiger", "Dragon", "Panda", "Shark", "Eagle", "Unicorn", "Lion", "Wolf"]
 
-# Step 2: Generate a random username
+# Step 2: Generate a random usernames
 def generate_username(include_numbers=False, include_special_chars=False, username_length=10):
     # Combine random adjective and noun
     adjective = random.choice(adjectives)
