@@ -1,2 +1,2 @@
 # Random-Username-Generator
-Project
+Project 1
